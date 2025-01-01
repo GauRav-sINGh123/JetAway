@@ -33,7 +33,7 @@ export function BlogCard({ blog, index, inView }: BlogCardProps) {
       <h3 className="text-2xl mb-2">{blog.title}</h3>
       <p className="text-gray-600 mb-4">{blog.description}</p>
       <Button variant="outline" size="lg">
-        EXPLORE ROOM
+        EXPLORE
       </Button>
     </motion.div>
   );
