@@ -13,10 +13,10 @@ export function HeroLeft() {
     >
       <div className="max-w-2xl mb-4 md:mb-8 ">
         <h1 className="text-7xl font-playfair ">
-        Enjoy today amidst <br />our natural luxury.
+        Explore today, <br /> embrace the journey.
         </h1>
         <p className="text-lg lg:text-xl mb-12 text-gray-600 mt-4">
-        Discover paradise at our exquisite beachfront. 
+        Discover breathtaking destinations, insider tips, and travel stories that ignite your wanderlust.
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Button size="lg" className="bg-black text-white hover:bg-black/90 text-sm tracking-wider">
