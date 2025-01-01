@@ -16,7 +16,7 @@ export function HeroLeft() {
         Enjoy today amidst <br />our natural luxury.
         </h1>
         <p className="text-lg lg:text-xl mb-12 text-gray-600 mt-4">
-        Discover paradise at our exquisite beachfront resorts. 
+        Discover paradise at our exquisite beachfront. 
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Button size="lg" className="bg-black text-white hover:bg-black/90 text-sm tracking-wider">
