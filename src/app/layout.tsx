@@ -7,7 +7,7 @@ const playfair = Playfair_Display({ subsets: ['latin'] });
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Jetways',
+  title: 'Jetway',
   description: 'Travel Blogs',
 };
 
