@@ -22,7 +22,7 @@ export default function Navbar() {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
           <Diamond className="h-6 w-6" />
-          <span className="text-xl font-semibold">Jetways</span>
+          <span className="text-xl font-semibold">Jetway</span>
         </Link>
         
         {/* Desktop Menu */}
