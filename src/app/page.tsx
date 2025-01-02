@@ -1,4 +1,4 @@
-import {Hero,About,FeaturedPosts} from '@/components/index';
+import {Hero,About,FeaturedPosts,DestinationsSection} from '@/components/index';
 
 export default function Home() {
   return (
@@ -6,6 +6,7 @@ export default function Home() {
      <Hero/>
      <FeaturedPosts/>
      <About/>
+     <DestinationsSection/>
     </div>
   );
 }
