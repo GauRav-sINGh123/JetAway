@@ -4,6 +4,6 @@ import{ FeaturedPosts} from "./Sections/FeaturedPosts/FeaturedPosts"
 import { DestinationsSection } from "./Sections/DestinationSection/DestinationsSection";
 import { TravelGuidesSection } from "./Sections/TravelGuideSection/TravelGuidesSection";
 import { GallerySection } from "./Sections/GallerySection/GallerySection";
+import { TravelTipsSection } from "./Sections/TravelTips/TravelTipsSection";
 
-
-export {Navbar,Hero,FeaturedPosts,DestinationsSection,TravelGuidesSection,GallerySection}
+export {Navbar,Hero,FeaturedPosts,DestinationsSection,TravelGuidesSection,GallerySection,TravelTipsSection}

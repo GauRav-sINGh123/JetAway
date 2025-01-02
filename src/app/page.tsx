@@ -1,4 +1,4 @@
-import {Hero,FeaturedPosts,DestinationsSection,TravelGuidesSection,GallerySection} from '@/components/index';
+import {Hero,FeaturedPosts,DestinationsSection,TravelGuidesSection,GallerySection,TravelTipsSection} from '@/components/index';
 
 export default function Home() {
   return (
@@ -8,6 +8,7 @@ export default function Home() {
      <DestinationsSection/>
      <TravelGuidesSection/>
      <GallerySection/>
+     <TravelTipsSection/>
     </div>
   );
 }
