@@ -40,9 +40,11 @@ export default function Navbar() {
             LOCATIONS
           </Link>
           <div className="flex items-center space-x-4">
-            <Button variant="default" className="bg-black text-white">
+           <Link href={"/sign-in"}>
+           <Button variant="default" className="bg-black text-white">
               Login
             </Button>
+           </Link>
           </div>
         </div>
 
@@ -77,9 +79,11 @@ export default function Navbar() {
             <Link href="/locations" className="hover:text-gray-600 transition-colors" onClick={toggleMenu}>
               LOCATIONS
             </Link>
+            <Link href={"/sign-in"}>
             <Button variant="default" className="bg-black text-white w-full" onClick={toggleMenu}>
               Login
             </Button>
+            </Link>
           </div>
         </motion.div>
       )}
