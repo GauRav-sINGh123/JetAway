@@ -12,7 +12,7 @@ export function HeroLeft() {
       className="w-full lg:w-1/2 px-4 lg:px-16 py-20 lg:py-0 flex items-center  "
     >
       <div className="max-w-2xl mb-4 md:mb-8 ">
-        <h1 className="text-7xl font-playfair leading-loose md:leading-none">
+        <h1 className="text-7xl font-playfair  ">
         Explore today, <br /> embrace the journey.
         </h1>
         <p className="text-lg lg:text-xl mb-12 text-gray-600 mt-4">
